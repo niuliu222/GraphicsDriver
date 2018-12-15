@@ -1,1 +1,5 @@
 /GraphicsDriver/.vs/GraphicsDriver/v15/*.opendb
+/GraphicsDriver/.vs/GraphicsDriver/v15/ipch
+/GraphicsDriver/GLAD/Debug
+/GraphicsDriver/Debug
+/GraphicsDriver/GraphicsDriver/Debug
